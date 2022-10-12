@@ -16,6 +16,38 @@ file.txt - a plain text file.
 file.png, file.gif, file.jpg - an image."
 "Anything inside quotes is considered a single item."
 "What the backslash does is escape (or nullify) the special meaning of the next character."
+Here is a list of some basic terminal commands!
+cd = Change Directory
+
+ls = Listing Directory
+
+open = Open Files
+
+cp = Copy A File To Another Directory
+
+mv = Move A File
+
+touch = Create A Text File
+
+mkdir = Create A Directory
+
+rmdir = Remove An Empty Directory
+
+rm -R = Remove Nested Directories
+
+sudo = Execute Commands With Superuser Privileges
+
+top = List Actively Running Computer Processes
+
+q = Quit sub-screen and Return To Terminal
+
+clear = Cleat The Terminal
+
+man = Manual Page For A Command
+
+exit = Exit Command
+
+ 
 
 
 
